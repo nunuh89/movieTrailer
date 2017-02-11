@@ -1,5 +1,9 @@
 import media
 import fresh_tomatoes
+"""
+    script to store movie attributes and call fresh_tomatoes to generate the page
+    
+"""
 
 la_la_land = media.Movie("La La Land","Musical drama about pursing dreams",
  "http://t2.gstatic.com/images?q=tbn:ANd9GcRhFtgdSYQ89vUMjMJal2D8H39qBCkh9ptCEoZEsafOzkeQPTu2",
