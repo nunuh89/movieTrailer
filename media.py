@@ -12,6 +12,6 @@ class Movie():
         webbrowser.open(self.trailer_youtube_url)
 
 
-toy = Movie("alkdf", "adskfjhklajsdhf", "adfhlaidhf", "kjahsdklfj")
+#toy = Movie("alkdf", "adskfjhklajsdhf", "adfhlaidhf", "https://www.youtube.com/watch?v=sHNp-SYTtiQ")
 
-print(toy.storyline)
+#print(toy.storyline)
