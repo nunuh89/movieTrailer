@@ -12,8 +12,8 @@
 Configuration
 -------------
 * Pre-requisites
-## Install Python 2.7+
-## Build and run entertainment_center.py, a html page will be opened by default browser
+ - Install Python 2.7+
+ - Build and run entertainment_center.py, a html page will be opened by default browser
 
 # movieTrailer
 - entertainment_center.py
