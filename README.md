@@ -16,10 +16,10 @@ Configuration
 ## Build and run entertainment_center.py, a html page will be opened by default browser
 
 # movieTrailer
-## entertainment_center.py
-### script to pass the array of movies
-## media.py
-### class for each movie
-#### attributes include: title, storyline, youtube trailer url, poster url
-## fresh_tomatoes.py
-### script to generate html page given an array of movies
+- entertainment_center.py
+ - script to pass the array of movies
+- media.py
+ - class for each movie
+  - attributes include: title, storyline, youtube trailer url, poster url
+- fresh_tomatoes.py
+ - script to generate html page given an array of movies
